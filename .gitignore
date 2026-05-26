@@ -1,0 +1,9 @@
+# Dart and Flutter tooling.
+.dart_tool/
+.packages
+build/
+doc/api/
+coverage/
+
+# Library packages do not commit dependency resolution.
+pubspec.lock

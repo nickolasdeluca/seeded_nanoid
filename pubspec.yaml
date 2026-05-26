@@ -1,0 +1,16 @@
+name: seeded_nanoid
+description: Deterministic Nano ID-style identifiers and collision-free seed encoding for Dart and Flutter.
+version: 1.0.0
+repository: https://github.com/nickolasdeluca/seeded_nanoid
+issue_tracker: https://github.com/nickolasdeluca/seeded_nanoid/issues
+topics:
+  - identifiers
+  - nanoid
+  - deterministic
+
+environment:
+  sdk: ^3.8.0
+
+dev_dependencies:
+  lints: ^6.1.0
+  test: ^1.31.1
